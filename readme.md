@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=220&section=header&text=Noor-e-Hira%20Noorani&fontSize=55&fontColor=F5F5F5&animation=fadeIn&fontAlignY=40&desc=Junior%20AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%20Computer%20Vision&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="assets/banner.png" width="100%"/>
 </div>
 
 <div align="center">
