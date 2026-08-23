@@ -1,18 +1,118 @@
-# 💫 About Me:
-AI Engineer 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=896A15,6E8915,98351F&height=250&section=header&text=Noore%20Hira&fontSize=70&fontColor=DEE2D9&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agentic%20Systems%20%7C%20Building%20Practical%20AI%20Products&descAlignY=60&descAlign=50" width="100%"/>
+</div>
 
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DEE2D9&center=true&vCenter=true&width=1000&lines=AI+Engineer+%26+Full-Stack+Developer;Multi-Agent+Systems+%26+LLM+Applications;TypeScript+%2F+Python+%2F+Java+%2F+PHP;Building+Practical%2C+User-Facing+AI+Products."
+    alt="Typing SVG"
+  />
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Noore-hira&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Noore-hira&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Noore-hira&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <a href="https://github.com/Noore-hira" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <!-- Add your LinkedIn / email badges here, e.g.: -->
+  <!-- <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Noore-hira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="55%" valign="center">
+      <h3>👩‍💻 What I Build</h3>
+      <p>
+        I'm an <b>AI Engineer</b> and <b>Full-Stack Developer</b> who likes turning LLMs into products people can actually use — not just demos. My work spans <b>multi-agent systems</b>, <b>AI-powered platforms</b>, and solid full-stack fundamentals in <b>Java</b>, <b>Python</b>, and <b>PHP</b>.
+      </p>
+      <p>
+        I'm especially interested in <b>agentic workflows</b> — systems where an AI plans, executes, and reports back — and in wrapping that intelligence in clean, usable interfaces.
+      </p>
+      <ul>
+        <li><b>🔭 Current Focus:</b> Multi-agent AI systems for data analysis & reporting.</li>
+        <li><b>💡 Core Skill:</b> Designing AI products end-to-end — from prompt/agent logic to the UI that ships it.</li>
+        <li><b>⚡ Goal:</b> Building AI tools that save real people real time.</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,php,js&theme=dark" height="40" alt="Languages" />
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/LLM_Apps-AI_Engineering-blue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-Agentic_AI-orange?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Applied_AI-8CAAE6?style=for-the-badge" height="30"/>
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" height="40" alt="Full-Stack" />
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" height="40" alt="Tools" />
+
+</div>
+
+---
+---
+
+### 🏆 Featured Projects
+
+| Project | Domain | What It Does | Stack |
+|:---|:---|:---|:---|
+| **[DataScribe](https://github.com/Noore-hira/DataScribe)** | 🤖 Multi-Agent AI | A multi-agent AI data analyst that plans, codes, analyzes, visualizes, and generates professional reports from natural language queries. | `TypeScript` `LLM Agents` |
+| **[CareerPrep_AI](https://github.com/Noore-hira/CareerPrep_AI)** | 🎯 AI-Powered EdTech | Generates personalized career preparation guides for different technical roles using AI. | `TypeScript` `LLM Apps` |
+| **[Streamlit_app](https://github.com/Noore-hira/Streamlit_app)** | 📊 Data App | Interactive Python-based application built with Streamlit. | `Python` `Streamlit` |
+| **[Web_engineering_and_technologies](https://github.com/Noore-hira/Web_engineering_and_technologies)** | 🛒 Web Dev | A shopping cart website built as part of web engineering coursework. | `PHP` |
+| **[softwareengineering](https://github.com/Noore-hira/softwareengineering)** | ⚙️ Core CS | Software engineering coursework and fundamentals. | `Java` |
+
+---
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Noore-hira">
+    <img src="https://github-readme-stats.vercel.app/api?username=Noore-hira&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/Noore-hira">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noore-hira&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages graph" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Noore-hira">
+    <img src="https://streak-stats.demolab.com?user=Noore-hira&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Noore-hira&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noore-hira&style=for-the-badge&color=896A15&label=PROFILE+VIEWS"/>
+</div>
