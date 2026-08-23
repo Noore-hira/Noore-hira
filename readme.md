@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ai-hero.jpg" width="100%"/>
+  <img src="assets/banner_1.png" width="100%"/>
 </div>
 
 <div align="center">
