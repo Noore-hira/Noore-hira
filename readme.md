@@ -4,7 +4,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A5B4FC&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Multi-Agent+Systems+%26+RAG+Pipelines;LangGraph+%2F+LangChain+%2F+FastAPI+%2F+PyTorch;Computer+Vision+%26+Generative+AI;Turning+LLM+Workflows+Into+Production+Systems."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Multi-Agent+Systems+%26+RAG+Pipelines;LangGraph+%2F+LangChain+%2F+FastAPI+%2F+PyTorch;Computer+Vision+%26+Generative+AI;Turning+LLM+Workflows+Into+Production+Systems."
     alt="Typing SVG"
   />
 </div>
